@@ -43,8 +43,6 @@ header {
     color: white;
 }
 
-
-
 .tamanho02 {
     font-size: 25px;
 }
@@ -148,7 +146,6 @@ main {
     padding:40px;
 }
 
-
 #linha02 img{
     width: 18%;
 
@@ -180,7 +177,6 @@ main {
     margin: 5px;
     padding: 5px 10px;
     border-radius: 10px;
-    
 }
 
 footer {
@@ -190,7 +186,6 @@ footer {
     color:white;
     padding:30px 50px;
     justify-content: space-between;
-  
 }
 
 .f01 a{
