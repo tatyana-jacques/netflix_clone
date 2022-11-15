@@ -8,6 +8,6 @@
 </ul>
 <br>
 <br>
-
-
+<div align="center">
  <img src="img_site.png" width = 500px>
+ </div>
